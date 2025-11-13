@@ -13,6 +13,9 @@ Persian (Farsi) is spoken by over 100 million people worldwide, primarily in Ira
 - [Leaderboards](#leaderboards)
 - [Platforms](#platforms)
 - [Tools](#tools)
+- [Researchers](#researchers)
+- [Labs](#labs)
+- [Tutorials](#tutorials)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -197,6 +200,87 @@ Persian (Farsi) is spoken by over 100 million people worldwide, primarily in Ira
 - [EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - LLM evaluation framework
 - [BIG-bench](https://github.com/google/BIG-bench) - Benchmark for LLMs
 - [HELM](https://github.com/stanford-crfm/helm) - Holistic evaluation of language models
+
+## Researchers
+
+### Persian NLP Researchers
+- [Dr. Heshaam Faili](https://ece.ut.ac.ir/en/~hfaili) - University of Tehran, Natural Language Processing
+- [Dr. Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery) - University of Tehran, Information Retrieval and NLP
+- [Dr. Mehrnoush Shamsfard](http://facultymembers.sbu.ac.ir/shamsfard/) - Shahid Beheshti University, NLP and Ontology
+- [Dr. Mahmood Bijankhan](https://linguistics.ut.ac.ir/~bijankhan/) - University of Tehran, Computational Linguistics
+- [Dr. Ehsaneddin Asgari](https://ehsanasgari.de/) - Helmholtz Center Munich, Computational Biology and NLP
+- [Dr. Hinrich Schütze](https://www.cis.lmu.de/~schuetze/) - LMU Munich, Multilingual NLP including Persian
+
+### International Researchers Working on Persian
+- [Dr. Jon Dehdari](https://jon.dehdari.org/) - Language technology, computational linguistics
+- [Dr. Philipp Koehn](https://www.cs.jhu.edu/~phi/) - Johns Hopkins University, Machine Translation
+- [Dr. Marine Carpuat](https://www.cs.umd.edu/~marine/) - University of Maryland, Machine Translation
+
+### Industry Researchers
+- [Hooshvare Team](https://hooshvare.com/about) - Persian NLP and AI research
+- Contributors to multilingual models at Google, Meta, Cohere, and other tech companies
+
+## Labs
+
+### Academic Research Labs
+- [NLP Lab - University of Tehran](https://nlp.ut.ac.ir/) - Leading Persian NLP research group
+- [Data and Web Science Lab - Sharif University](http://dml.ir/) - Machine learning and NLP
+- [NLP Research Laboratory - Shahid Beheshti University](http://nlp.sbu.ac.ir/) - Persian language processing
+- [Text Mining Laboratory - Amirkabir University](http://textmining.aut.ac.ir/) - Text analytics and NLP
+- [Information Retrieval Lab - University of Tehran](http://ece.ut.ac.ir/DBRG/) - IR and NLP research
+
+### Industry Research Labs
+- [HooshvareLab](https://hooshvare.com/) - Persian AI and NLP development
+- [Roshan AI Research](https://roshan.ai/) - Conversational AI for Persian
+- [DigiKala AI Lab](https://digikala.com/) - E-commerce AI and NLP
+- [Cafe Bazaar AI](https://cafebazaar.ir/) - Mobile app marketplace with Persian NLP
+
+### International Labs with Persian Focus
+- [Cohere For AI](https://cohere.com/research) - Aya multilingual models including Persian
+- [BigScience Workshop](https://bigscience.huggingface.co/) - BLOOM multilingual model
+- [OPUS Project](https://opus.nlpl.eu/) - Parallel corpora including Persian
+- [Universal Dependencies](https://universaldependencies.org/) - Persian treebank development
+
+## Tutorials
+
+### Getting Started with Persian NLP
+- [Persian NLP Tutorial](https://github.com/persiannlp/tutorial) - Introduction to Persian language processing
+- [Hazm Library Tutorial](https://github.com/sobhe/hazm/wiki) - Using Hazm for Persian text processing
+- [ParsBERT Tutorial](https://github.com/hooshvare/parsbert/blob/master/notebooks/) - Fine-tuning BERT for Persian
+
+### Model Training and Fine-tuning
+- [Fine-tuning Transformers for Persian](https://huggingface.co/blog/fine-tune-xlm-roberta-for-token-classification) - Token classification tutorial
+- [Training Persian Language Models](https://github.com/huggingface/transformers/tree/main/examples/pytorch/language-modeling) - HuggingFace examples
+- [Persian GPT-2 Training](https://github.com/hooshvare/parsbert#gpt2) - Training generative models
+- [Aya Model Fine-tuning Guide](https://cohere.com/blog/aya-multilingual) - Working with multilingual models
+
+### Task-Specific Tutorials
+- [Persian Sentiment Analysis Tutorial](https://github.com/hooshvare/persian-sentiment-analysis/blob/master/tutorial.ipynb) - Building sentiment classifiers
+- [Persian NER Tutorial](https://github.com/HaniehP/PersianNER/blob/master/tutorial/) - Named entity recognition
+- [Persian Question Answering](https://github.com/persiannlp/parsinlu#tutorial) - QA system development
+- [Persian Machine Translation](https://github.com/pytorch/fairseq/tree/main/examples/translation) - Building translation models
+
+### Video Tutorials
+- [Persian NLP Course - YouTube](https://www.youtube.com/results?search_query=persian+nlp+tutorial) - Various video tutorials (Persian language)
+- [Transformers Tutorial Series](https://www.youtube.com/c/HuggingFace) - HuggingFace official tutorials
+- [Deep Learning for NLP](https://www.coursera.org/specializations/natural-language-processing) - Coursera NLP specialization
+
+### Books and Courses
+- [Natural Language Processing with Python](https://www.nltk.org/book/) - NLTK book with multilingual examples
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - Jurafsky & Martin textbook
+- [Practical Persian NLP](https://github.com/persiannlp/practical-nlp) - Hands-on Persian NLP guide
+
+### Blogs and Articles
+- [HooshvareLab Blog](https://hooshvare.com/blog) - Persian NLP research and tutorials
+- [Towards Data Science - Persian NLP](https://towardsdatascience.com/tagged/persian-nlp) - Medium articles
+- [Persian AI Community Posts](https://virgool.io/@persian-ai) - Persian language articles
+- [Hugging Face Blog](https://huggingface.co/blog) - Latest NLP developments
+
+### Community Resources
+- [Persian NLP GitHub Discussions](https://github.com/persiannlp/discussion) - Community Q&A
+- [Stack Overflow Persian NLP](https://stackoverflow.com/questions/tagged/persian+nlp) - Technical questions
+- [Reddit r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - General NLP discussions
+- [Persian AI Telegram Groups](https://t.me/persian_ai) - Community chat and resources
 
 ## Contributing
 
